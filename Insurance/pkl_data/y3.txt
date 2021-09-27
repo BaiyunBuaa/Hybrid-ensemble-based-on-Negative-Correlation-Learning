@@ -1,0 +1,6 @@
+{'alpha': 0.5, 'max_iter': 100, 'positive': True, 'precompute': True, 'selection': 'cyclic', 'tol': 0.0001, 'warm_start': True}
+0.0
+-0.006615377947745848
+1.0539394773560231
+[0.78674079]
+[1.]

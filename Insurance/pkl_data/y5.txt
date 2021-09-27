@@ -1,0 +1,6 @@
+{'alpha': 1e-05, 'learning_rate': 'constant', 'loss': 'squared_loss', 'max_iter': 1000, 'penalty': 'elasticnet', 'tol': 0.01}
+0.7078077833219236
+0.7325245796248508
+0.4934236958530716
+[0.37541719]
+[1.77433656]
