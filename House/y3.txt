@@ -1,6 +1,0 @@
-{'alpha': 0.5, 'max_iter': 1000, 'positive': False, 'precompute': True, 'selection': 'random', 'tol': 0.01, 'warm_start': True}
-0.26692885569651315
-0.25695523464266606
-0.7845140789197974
-[0.50933362]
-[1.23422649]
