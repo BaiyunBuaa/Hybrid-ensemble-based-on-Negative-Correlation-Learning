@@ -1,0 +1,6 @@
+{'bootstrap': True, 'max_depth': 4, 'min_samples_leaf': 3, 'min_samples_split': 4, 'n_estimators': 100}
+0.3583527392345469
+0.3551312275389609
+0.7866534807651262
+[0.64566062]
+[2.86944759]

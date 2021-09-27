@@ -1,0 +1,6 @@
+{'polynomialfeatures__degree': 2, 'polynomialfeatures__include_bias': False, 'polynomialfeatures__interaction_only': False, 'polynomialfeatures__order': 'F'}
+0.9322374905352993
+0.9217542069250129
+0.27727663576442163
+[0.1520624]
+[2.02491356]
