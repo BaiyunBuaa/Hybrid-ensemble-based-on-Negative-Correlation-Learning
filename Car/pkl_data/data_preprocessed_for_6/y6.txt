@@ -1,0 +1,18 @@
+{'polynomialfeatures__degree': 3, 'polynomialfeatures__include_bias': False, 'polynomialfeatures__interaction_only': False, 'polynomialfeatures__order': 'F'}
+0.9323558570599498
+-2.6825663029504136e+16
+46323461.32268874
+[4121495.0157988]
+[8306168.48694964]
+{'polynomialfeatures__degree': 3, 'polynomialfeatures__include_bias': False, 'polynomialfeatures__interaction_only': False, 'polynomialfeatures__order': 'F'}
+0.8258346147562883
+-5.046286409073183e+18
+1706945314.1374207
+[1.6526931e+08]
+[7.0983703e+08]
+{'polynomialfeatures__degree': 3, 'polynomialfeatures__include_bias': False, 'polynomialfeatures__interaction_only': False, 'polynomialfeatures__order': 'F'}
+0.9323558570599498
+-2.6825663029504136e+16
+1.159055701900794
+[0.45454501]
+[2.75884625]

@@ -1,0 +1,6 @@
+{'max_features': 'auto', 'min_samples_leaf': 3, 'min_samples_split': 2, 'splitter': 'random'}
+0.8445702151538762
+0.6964846388104784
+0.4482636890177438
+[0.2504919]
+[2.08801452]
