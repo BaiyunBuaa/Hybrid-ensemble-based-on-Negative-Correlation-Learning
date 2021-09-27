@@ -1,0 +1,6 @@
+{'alpha': 0.5, 'max_iter': 500, 'positive': False, 'precompute': False, 'selection': 'random', 'tol': 0.01, 'warm_start': False}
+0.3896465914426447
+0.3840243845250059
+0.8433460989502198
+[0.66446152]
+[0.9509263]

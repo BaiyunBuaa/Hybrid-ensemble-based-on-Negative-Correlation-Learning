@@ -1,0 +1,6 @@
+{'alpha': 0.0001, 'learning_rate': 'adaptive', 'loss': 'epsilon_insensitive', 'max_iter': 1500, 'penalty': 'l1', 'tol': 0.0001}
+0.9579820772638303
+0.9502067897003199
+0.22555945348171502
+[0.13795359]
+[0.54597115]
