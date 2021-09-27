@@ -1,0 +1,12 @@
+{'activation': 'logistic', 'alpha': 0.0001, 'learning_rate': 'constant', 'solver': 'adam'}
+0.905844979916511
+0.8763932864875237
+0.32040306585985956
+[0.19557841]
+[1.40596114]
+{'activation': 'logistic', 'alpha': 0.001, 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.9052243588737923
+0.8772509949916394
+0.3215702348458248
+[0.19701419]
+[1.38218311]
